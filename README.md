@@ -23,7 +23,7 @@
 - [補足: 装備データ運用（system / user）](#補足-装備データ運用system--user)
 
 # 導入方法
-1. **[最新版のダウンロードはこちら（PenaUtilityTool.zip）](https://github.com/Munchi369/PenaUlitilyTool/releases)**
+1. **[最新版のダウンロードはこちら](https://github.com/Munchi369/PenaUlitilyTool/releases)**
 2. ダウンロードした ZIP ファイルを解凍します。
 3. 解凍した中身のPenaUtilityToolフォルダを、**「penanto3」があるフォルダと同じ場所**へ配置してください。
 4. PenaUtilityTool.exeをダブルクリックで起動。
