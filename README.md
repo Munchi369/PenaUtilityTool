@@ -63,6 +63,7 @@
 - 選手IDを指定して選手情報の Markdown ファイルを作成できます。
 - お気に入り選手を選んでID入力欄へ反映できます。
 - 出力先は `doc/` フォルダです（`doc/選手名.md`）。
+- **[Markdownファイルをプレビューする際のおすすめのエディタ](https://github.com/marktext/marktext/releases)**
 
 ## 4. 選手ID検索
 - 選手名からID・ポジション・状態を検索できます。
