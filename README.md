@@ -6,9 +6,9 @@
 「ゲーム本体だけでは時間がかかる作業」や「あったら嬉しい拡張機能」を凝縮しています。<br>
 - AIで分析<br>
 <img width="582" height="365" alt="image" src="https://github.com/user-attachments/assets/355448b3-d10a-42a1-b8b5-cf9d12756dbc" /> <br>
-- ブックメーカ機能で勝利予想
-<img width="326" height="600" alt="HELbJ08aMAAic5h" src="https://github.com/user-attachments/assets/442d7bdf-6dae-406f-9a18-db9591aa252e" />
-<img width="326" height="600" alt="HELbLrha0AA7WbX" src="https://github.com/user-attachments/assets/877bca23-a309-4b88-ae0a-ab0f118e8790" />
+- ブックメーカで勝利予想
+<img width="226" height="500" alt="HELbJ08aMAAic5h" src="https://github.com/user-attachments/assets/442d7bdf-6dae-406f-9a18-db9591aa252e" />
+<img width="226" height="500" alt="HELbLrha0AA7WbX" src="https://github.com/user-attachments/assets/877bca23-a309-4b88-ae0a-ab0f118e8790" />
 
 - 他にも色々な機能あり
 
