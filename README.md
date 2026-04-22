@@ -65,7 +65,7 @@
 - UtilityToolで作成したCSVファイルを添付するだけで分析可能です
 - **[ペナントアナライザー](https://gemini.google.com/gem/1xP2v2rdmKMHDbgBi32vhxhaXjpyG7ixg?usp=sharing)**
 - **[ペナントスポーツ新聞記者](https://gemini.google.com/gem/1MArcXqowWeQMXKRYBxOdGmEOKDdj9C51?usp=sharing)**
-- 利用にはGoogleアカウントが必要です。誰がしたかやチャット内容は私には見えませんのでご安心を。
+- 利用にはGoogleアカウントが必要です。誰が使ったかやチャット内容は、私では見れませんのでご安心を。
 
 ## 5. 引退選手復活
 - 引退選手を指定して復活できます。
