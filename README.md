@@ -6,9 +6,9 @@
 「作業を楽にする便利な機能」や「あったら面白そうな拡張機能」を凝縮しています。<br>
 - AIで分析用データ作成<br>
 <img width="582" height="365" alt="image" src="https://github.com/user-attachments/assets/355448b3-d10a-42a1-b8b5-cf9d12756dbc" /> <br>
-- ブックメーカで勝利予想
-<img width="226" height="500" alt="HELbJ08aMAAic5h" src="https://github.com/user-attachments/assets/442d7bdf-6dae-406f-9a18-db9591aa252e" />
-<img width="226" height="500" alt="HELbLrha0AA7WbX" src="https://github.com/user-attachments/assets/877bca23-a309-4b88-ae0a-ab0f118e8790" />
+
+- 
+<img width="400" height="632" alt="image" src="https://github.com/user-attachments/assets/8cb7847d-b684-41f6-a0a4-e40b64d271a2" />
 
 - 他にも色々な機能あり
 
